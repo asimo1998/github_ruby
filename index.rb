@@ -1,5 +1,7 @@
+#test github 
 puts "hello world"
+
+print "nhap vao gia tri  cua x "
 x = gets.chomp.to_i
-puts "nhap vao gia tri  cua x #{x}"
-y = gets.chomp.to_i
-puts "gia tri moi la #{x + y}"
+
+puts "gia tri cua x la #{x}"
