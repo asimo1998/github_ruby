@@ -11,4 +11,3 @@ while x <= 3
     
 end
 
-puts "day la doan viet them"
